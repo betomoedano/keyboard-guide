@@ -38,6 +38,7 @@ export default function RootLayout() {
           <Stack.Screen name="index" options={{ headerShown: false }} />
           <Stack.Screen name="basic" />
           <Stack.Screen name="advanced" />
+          <Stack.Screen name="advanced-toolbar" />
           <Stack.Screen name="+not-found" />
         </Stack>
       </KeyboardProvider>
