@@ -12,6 +12,10 @@ export default function IndexScreen() {
       <Link href={"/advanced"} asChild>
         <Button title="Advanced Usage" />
       </Link>
+
+      <Link href={"/advanced-toolbar"} asChild>
+        <Button title="Advanced Usage with Toolbar" />
+      </Link>
     </SafeAreaView>
   );
 }
