@@ -16,6 +16,10 @@ export default function IndexScreen() {
       <Link href={"/advanced-toolbar"} asChild>
         <Button title="Advanced Usage with Toolbar" />
       </Link>
+
+      <Link href={"/view-avoiding"} asChild>
+        <Button title="View Avoiding" />
+      </Link>
     </SafeAreaView>
   );
 }

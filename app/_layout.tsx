@@ -39,6 +39,7 @@ export default function RootLayout() {
           <Stack.Screen name="basic" />
           <Stack.Screen name="advanced" />
           <Stack.Screen name="advanced-toolbar" />
+          <Stack.Screen name="view-avoiding" />
           <Stack.Screen name="+not-found" />
         </Stack>
       </KeyboardProvider>
