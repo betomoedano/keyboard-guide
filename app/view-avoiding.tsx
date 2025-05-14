@@ -61,6 +61,7 @@ export default function Schedule() {
             borderRadius: 16,
             marginBottom: 16,
           }}
+          textAlignVertical="top"
         />
 
         <View
